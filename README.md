@@ -2,8 +2,6 @@
 <br>
   <img src="public/images/logo-purple.svg" alt="Proffy" width="320">
 <br>
-<br>
-<!-- Welcome to 👨🏻‍🏫 PROFFY -->
 </h1>
 
 <p align="center">Proffy is a site  to connect students and teachers (or Proffys 😉).</p>
@@ -21,8 +19,8 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="370">
-  <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="370">
+<!--   <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="370"> -->
+<!--   <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="370"> -->
 </div>
 
 <hr />
