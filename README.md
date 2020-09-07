@@ -19,7 +19,7 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-<!--   <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="370"> -->
+  <img src="https://ibb.co/XjnTY42" alt="web-demo" height="370">
 <!--   <img src="https://i.ibb.co/KFp5xvY/mobile.gif" alt="mobile-demo" height="370"> -->
 </div>
 
